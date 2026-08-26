@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/iEsclyDev/instareport">
+<a href="https://github.com/iEsclyLabs/instareport">
   <img src="social-preview.png" alt="InstaReport - Professional Social Media Reporting & Account Management Platform">
 </a>
 
@@ -12,21 +12,21 @@
 
 ### InstaReport
 
-**Actively developed since 2021** &nbsp;·&nbsp; **Officially maintained by [iEscly](https://github.com/iEsclyDev)**
+**Actively developed since 2021** &nbsp;·&nbsp; **Officially maintained by [iEscly](https://github.com/iEsclyLabs)**
 
-Originally created under the **Credly** project, later known as **iEscly**, now released as **InstaReport** by **iEsclyDev**.
+Originally created under the **credly** project, later known as **iEscly**, now released as **InstaReport** by **iEsclyLabs**.
 
 ---
 
 [![Official Website](https://img.shields.io/badge/🌐_Official_Website-Visit_Now-7c3aed?style=for-the-badge&logo=web)](https://iescly.duckdns.org)
 [![Purchase License](https://img.shields.io/badge/💎_Purchase_License-Available-16a34a?style=for-the-badge&logo=security)](https://iescly.duckdns.org/pricing)
 [![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-@instaReportV2Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/instaReportV2Bot)
-[![GitHub](https://img.shields.io/badge/GitHub-Official_Repository-181717?style=for-the-badge&logo=github)](https://github.com/iEsclyDev/instareport)
+[![GitHub](https://img.shields.io/badge/GitHub-Official_Repository-181717?style=for-the-badge&logo=github)](https://github.com/iEsclyLabs/instareport)
 
-[![GitHub stars](https://img.shields.io/github/stars/iEsclyDev/instareport?style=for-the-badge&logo=github&color=7c3aed)](https://github.com/iEsclyDev/instareport/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/iEsclyDev/instareport?style=for-the-badge&logo=github&color=7c3aed)](https://github.com/iEsclyDev/instareport/network)
-[![Version](https://img.shields.io/badge/Version-v9.0.1-7c3aed?style=for-the-badge&logo=semver)](https://github.com/iEsclyDev/instareport/releases)
-[![GitHub last commit](https://img.shields.io/github/last-commit/iEsclyDev/instareport?style=for-the-badge&color=16a34a)](https://github.com/iEsclyDev/instareport/commits/main)
+[![GitHub stars](https://img.shields.io/github/stars/iEsclyDev/instareport?style=for-the-badge&logo=github&color=7c3aed)](https://github.com/iEsclyLabs/instareport/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/iEsclyDev/instareport?style=for-the-badge&logo=github&color=7c3aed)](https://github.com/iEsclyLabs/instareport/network)
+[![Version](https://img.shields.io/badge/Version-v9.0.1-7c3aed?style=for-the-badge&logo=semver)](https://github.com/iEsclyLabs/instareport/releases)
+[![GitHub last commit](https://img.shields.io/github/last-commit/iEsclyDev/instareport?style=for-the-badge&color=16a34a)](https://github.com/iEsclyLabs/instareport/commits/main)
 
 </div>
 
@@ -75,8 +75,8 @@ The history of InstaReport spans multiple years of active development.
 | Year | Brand |
 |------|-------|
 | 2021 | **Credly** |
-| 2022 – 2026 | **iEscly** |
-| 2026 – Present | **iEsclyDev** |
+| 2022 – 2026 | **iEscly / iESclyDev** |
+| 2026 – Present | **iEsclyLabs** |
 
 Thousands of hours have gone into building, maintaining, improving and supporting this software across multiple platforms. This repository represents the latest official release.
 
@@ -91,11 +91,11 @@ Due to the popularity of the project, there are unofficial repositories, fake se
 | Official Resource | Link |
 |-------------------|------|
 | 🌐 Official Website | <https://iescly.duckdns.org> |
-| ⭐ Official GitHub | <https://github.com/iEsclyDev/instareport> |
+| ⭐ Official GitHub | <https://github.com/iEsclyLabs/instareport> |
 | 💬 Official Telegram | <https://t.me/iescly> |
 | 🎮 Official Discord | <https://discord.com/invite/v6ebT5aFx> |
 | 📺 Official YouTube | <https://youtube.com/@iEscly> |
-| 📸 Official Instagram | <https://instagram.com/i3scly> |
+| 📸 Official Instagram | <https://instagram.com/indianlesbianparty> |
 
 ---
 
@@ -202,7 +202,7 @@ Choose your preferred platform.
 
 ### 🪟 Windows
 
-1. Download the latest Windows installer from the [GitLab release](https://gitlab.com/iEsclyDev/InstaReport/-/releases) (also listed under [GitHub Releases](https://github.com/iEsclyDev/instareport/releases)).
+1. Download the latest Windows installer from the [GitLab release](https://gitlab.com/iEsclylabs/InstaReport/-/releases) (also listed under [GitHub Releases](https://github.com/iEsclyDev/instareport/releases)).
 2. Run:
 
 ```
@@ -214,7 +214,7 @@ InstaReport-installer-Windows-x86_64.exe
 
 ### 🐧 Linux
 
-1. Download the latest Linux packages from the [GitLab release](https://gitlab.com/iEsclyDev/InstaReport/-/releases) (also listed under [GitHub Releases](https://github.com/iEsclyDev/instareport/releases)):
+1. Download the latest Linux packages from the [GitLab release](https://gitlab.com/iEsclylabs/InstaReport/-/releases) (also listed under [GitHub Releases](https://github.com/iEsclyLabs/instareport/releases)):
    - `InstaReport-Linux-x86_64.deb` — Debian/Ubuntu package
    - `InstaReport-Linux-x86_64.AppImage` — portable AppImage
 
@@ -241,7 +241,7 @@ chmod +x InstaReport-Linux-x86_64.AppImage
 
 > The macOS build is a lightweight Tauri 2 app (~3 MB) that uses your system's built-in WebKit browser engine instead of bundling one — that's why it's so small compared to the Windows/Linux builds. Browser automation features (local profile scanning via Playwright) are not included yet; all other features work through the API.
 
-1. Download `InstaReport_9.0.1_aarch64.dmg` from the [GitLab release](https://gitlab.com/iEsclyDev/InstaReport/-/releases/v9.0.1).
+1. Download `InstaReport_9.0.1_aarch64.dmg` from the [GitLab release](https://gitlab.com/iEsclvLabs/InstaReport/-/releases/v9.0.1).
 2. Open the `.dmg` file and drag **InstaReport** into your **Applications** folder.
 3. On first launch, macOS will block the app because it's unsigned. To open it:
    - **Right-click** (or Control-click) the InstaReport app in Applications
@@ -504,7 +504,7 @@ The InstaReport community has been growing since 2021.
 - 🎮 **Discord:** <https://discord.com/invite/v6ebT5aFx>
 - 📺 **YouTube:** <https://youtube.com/@iEscly>
 - 📸 **Instagram:** <https://instagram.com/i3scly>
-- ⭐ **GitHub:** <https://github.com/iEsclyDev/instareport>
+- ⭐ **GitHub:** <https://github.com/iEsclyLabs/instareport>
 - 🎬 **Showcase:** <https://t.me/+Q1JOkBB4a5w2MGZh>
 - ✅ **Vouches:** <https://t.me/iVouchiEscly>
 
@@ -532,10 +532,10 @@ Full changelog:
 
 <div align="center">
 
-**InstaReport** — a premium social media automation platform by [iEscly](https://github.com/iEsclyDev)
+**InstaReport** — a premium social media automation platform by [iEscly](https://github.com/iEsclyLabs)
 
 
-Copyright © 2021 – 2026 iEsclyDev — developed by iEscly. All rights reserved.
+Copyright © 2021 – 2026 iEsclyLabs — developed by iEscly. All rights reserved.
 
 </div>
 
