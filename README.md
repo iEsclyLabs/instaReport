@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/iEsclyLabs/instareport">
-  <img src="social-preview.png" alt="InstaReport - Professional Social Media Reporting & Account Management Platform">
+  <img src="banner.png" alt="InstaReport - Professional Social Media Reporting & Account Management Platform">
 </a>
 
 </div>
