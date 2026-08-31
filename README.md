@@ -214,7 +214,7 @@ InstaReport-installer-Windows-x86_64.exe
 
 ### 🐧 Linux
 
-1. Download the latest Linux packages from the [GitLab release](https://gitlab.com/iEsclylabs/InstaReport/-/releases) (also listed under [GitHub Releases](https://github.com/iEsclyLabs/instareport/-/releases)):
+1. Download the latest Linux packages from the [GitLab release](https://gitlab.com/iEsclylabs/InstaReport/-/releases) (also listed under [GitHub Releases](https://github.com/iEsclyLabs/instaReport/releases)):
    - `InstaReport-Linux-x86_64.deb` — Debian/Ubuntu package
    - `InstaReport-Linux-x86_64.AppImage` — portable AppImage
 
