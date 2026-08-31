@@ -202,7 +202,7 @@ Choose your preferred platform.
 
 ### 🪟 Windows
 
-1. Download the latest Windows installer from the [GitLab release](https://gitlab.com/iEsclylabs/InstaReport/-/releases) (also listed under [GitHub Releases](https://github.com/iEsclyDev/instaReport/releases)).
+1. Download the latest Windows installer from the [GitLab release](https://gitlab.com/iEsclylabs/InstaReport/-/releases) (also listed under [GitHub Releases](https://github.com/iEsclyLabs/instaReport/releases)).
 2. Run:
 
 ```
